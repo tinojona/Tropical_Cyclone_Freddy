@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # dont push nc files
-data/*.nc
+data/**/*.nc
 
 # C extensions
 *.so
