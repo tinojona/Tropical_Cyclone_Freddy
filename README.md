@@ -1,15 +1,18 @@
 # Tropical Cyclone Freddy
 
-
-This repository evaluates AI forecasts of Pangu-Weather of the tropical cyclone Freddy by comparing multiple leadtimes with ERA5 reanalysis data. We assess the AI forecasts concerning their predicitive ability to represent the storm characteristics (wind speed at 500 hPa and mean sea level pressure), the severity of the storm (surface wind speed and specific humidity at 500 hPa), and the accuracy of the location prediction. The results are discussed in the FINAL_REPORT.pdf.
+This repository evaluates AI forecasts of Pangu-Weather of the tropical cyclone Freddy by comparing multiple leadtimes with ERA5 reanalysis data. We assessed the AI forecasts concerning their predicitive ability to represent the storm characteristics (wind speed at 500 hPa and mean sea level pressure), the severity of the storm (surface wind speed and specific humidity at 500 hPa), and the accuracy of the location prediction. The results are discussed in the FINAL_REPORT.pdf.
 
 <br> 
 
+## Main results
+
+Pangu-AI weather forecasts underestimated the intensity of the tropical cyclone Freddy and decreased in accuracy in forecasting the precise location of Freddy with increasing lead times since the initialization. 
+
 <p align="center">
-  <img src="plots/ERA5_readmeplot.png" alt="Figure 1" width="600"/>
+  <img src="plots/Distances_trackplot.png" alt="Figure 1" width="500"/>
 </p>
 
-*Wind speed at 500 hPa and mean sea level pressure when tropical cyclone Freddy made landfall for the first time in Madagascar in ERA5.*
+*Distance between the low pressure center of tropical cyclone Freddy in ERA5 and Pangu--AI forecasts from two initializations.*
 
 <br>
 
