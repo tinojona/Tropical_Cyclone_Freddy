@@ -1,9 +1,10 @@
 # Tropical Cyclone Freddy
 
-author: Tino Schneidewind
 
 This repository evaluates AI forecasts of Pangu-Weather of the tropical cyclone Freddy by comparing multiple leadtimes with ERA5 reanalysis data. We assess the AI forecasts concerning their predicitive ability to represent the storm characteristics (wind speed at 500 hPa and mean sea level pressure), the severity of the storm (surface wind speed and specific humidity at 500 hPa), and the accuracy of the location prediction. The results are discussed in the FINAL_REPORT.pdf.
 
+![Figure 1](plots/pangu_2023-02-19T12Wind speed500.0_Mean sea level pressure.png)
+<br>
 
 ## Folders
 
