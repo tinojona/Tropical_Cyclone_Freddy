@@ -6,10 +6,10 @@ This repository evaluates AI forecasts of Pangu-Weather of the tropical cyclone 
 <br> 
 
 <p align="center">
-  <img src="plots/ERA5_readmeplot.png" alt="Figure 1" width="700"/>
+  <img src="plots/ERA5_readmeplot.png" alt="Figure 1" width="600"/>
 </p>
 
-*Wind speed at 500 hPa and mean sea level pressure when tropical cyclone Freddy made landfall for the first time in Madagascar in ERA5 data.*
+*Wind speed at 500 hPa and mean sea level pressure when tropical cyclone Freddy made landfall for the first time in Madagascar in ERA5.*
 
 <br>
 
